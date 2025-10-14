@@ -22,7 +22,7 @@ export const Footer: React.FC<Props> = ({
                 <strong>
                   {activeCount}
                 </strong>
-                <span>pendientes</span>
+                <span> Pending</span>
             </span>
             <Filters
             filterSelected={filterSelected}
